@@ -33,7 +33,6 @@ img{
 }
 .boy{
     width: 50%;
-    float: left;
     background-color: burlywood;
     height: auto;
     display: flex;
@@ -46,7 +45,6 @@ img{
 }
 .girl{
     width: 50%;
-    float: right;
     background-color: aquamarine;
     height: auto;
     border: 6px black;
