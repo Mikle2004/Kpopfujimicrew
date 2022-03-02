@@ -32,9 +32,7 @@ img{
 
 }
 .boy{
-    width: 50%;
-    float: left;
-    background-color: burlywood;
+    width: 100%;
     height: auto;
     display: flex;
     flex-direction: row;
@@ -45,9 +43,7 @@ img{
     border: 6px black;
 }
 .girl{
-    width: 50%;
-    float: right;
-    background-color: aquamarine;
+    width: 100%;
     height: auto;
     border: 6px black;
     display: flex;
@@ -57,10 +53,6 @@ img{
     justify-content: center;
     min-height: 100vh;
     border: 6px black;
-}
-.division{
-    font-size: 1cm;
-    text-decoration: solid underline;
 }
 .annonce{
     text-align: center;
