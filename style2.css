@@ -16,10 +16,13 @@ body{
 }
 .Introduction{
     margin: 10cm;
-    margin-left: 12cm;
-    margin-top: 0.5cm;
+    margin-left: 10cm;
+    margin-top: 12cm;
     font-size: large;
     color: black;
+}
+.title{
+    margin-left: 3cm;
 }
 li{
     font-weight: bold;
@@ -56,4 +59,10 @@ img{
 }
 .annonce{
     text-align: center;
+}
+.division{
+    color: white;
+    font-size: 1cm;
+    text-decoration: solid;
+    text-decoration-color: dimgrey;
 }
